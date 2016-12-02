@@ -17,6 +17,9 @@
 @import 'bootstrap-sprockets';
 @import 'bootstrap';
 
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
 // typography codea
 h1, h2, h3 {
     font-family: 'Roboto', sans-serif;
@@ -47,4 +50,3 @@ h1, h2, h3 {
   opacity: 0.75;
   }
 }
-
